@@ -832,6 +832,80 @@
 <pin name="8" x="7.62" y="-2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
 <pin name="9" x="-7.62" y="-5.08" visible="pad" length="middle" direction="pas"/>
 </symbol>
+<symbol name="DF9-31_FIREFLY">
+<wire x1="-6.731" y1="18.669" x2="-6.731" y2="16.891" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="16.891" x2="6.604" y2="18.669" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="16.129" x2="-6.731" y2="14.351" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="14.351" x2="6.604" y2="16.129" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="13.589" x2="-6.731" y2="11.811" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="11.811" x2="6.604" y2="13.589" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="11.049" x2="-6.731" y2="9.271" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="9.271" x2="6.604" y2="11.049" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="8.509" x2="-6.731" y2="6.731" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="6.731" x2="6.604" y2="8.509" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="5.969" x2="-6.731" y2="4.191" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="4.191" x2="6.604" y2="5.969" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="3.429" x2="-6.731" y2="1.651" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="1.651" x2="6.604" y2="3.429" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="0.889" x2="-6.731" y2="-0.889" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-0.889" x2="6.604" y2="0.889" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-1.651" x2="-6.731" y2="-3.429" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-3.429" x2="6.604" y2="-1.651" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-4.191" x2="-6.731" y2="-5.969" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-5.969" x2="6.604" y2="-4.191" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-6.731" x2="-6.731" y2="-8.509" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-8.509" x2="6.604" y2="-6.731" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-9.271" x2="-6.731" y2="-11.049" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-11.049" x2="6.604" y2="-9.271" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-11.811" x2="-6.731" y2="-13.589" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-13.589" x2="6.604" y2="-11.811" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-14.351" x2="-6.731" y2="-16.129" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-16.129" x2="6.604" y2="-14.351" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-16.891" x2="-6.731" y2="-18.669" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="6.604" y1="-18.669" x2="6.604" y2="-16.891" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-6.731" y1="-19.431" x2="-6.731" y2="-21.209" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-9.144" y1="19.6312" x2="-7.6026" y2="20.872" width="0.4064" layer="94" curve="-102.324066" cap="flat"/>
+<wire x1="-7.6026" y1="20.8718" x2="8.1454" y2="19.6494" width="0.4064" layer="94"/>
+<wire x1="8.1454" y1="19.6495" x2="9.1442" y2="18.4088" width="0.4064" layer="94" curve="-77.655139" cap="flat"/>
+<wire x1="9.144" y1="-20.9488" x2="9.144" y2="18.4088" width="0.4064" layer="94"/>
+<wire x1="8.1454" y1="-22.1894" x2="9.144" y2="-20.9488" width="0.4064" layer="94" curve="77.657889"/>
+<wire x1="-9.144" y1="-22.1712" x2="-9.144" y2="19.6312" width="0.4064" layer="94"/>
+<wire x1="-7.6026" y1="-23.4118" x2="8.1454" y2="-22.1894" width="0.4064" layer="94"/>
+<wire x1="-9.144" y1="-22.1712" x2="-7.6026" y2="-23.4119" width="0.4064" layer="94" curve="102.337599" cap="flat"/>
+<text x="-8.89" y="-26.035" size="1.778" layer="96">&gt;VALUE</text>
+<text x="-8.89" y="21.59" size="1.778" layer="95">&gt;NAME</text>
+<pin name="3V3" x="-12.7" y="17.78" length="middle" direction="pwr"/>
+<pin name="VNRG" x="12.7" y="17.78" length="middle" direction="pwr" rot="R180"/>
+<pin name="RST" x="-12.7" y="15.24" length="middle" direction="in"/>
+<pin name="PG0" x="12.7" y="15.24" length="middle" rot="R180"/>
+<pin name="PG1" x="-12.7" y="12.7" length="middle"/>
+<pin name="PD0" x="12.7" y="12.7" length="middle" rot="R180"/>
+<pin name="PD1" x="-12.7" y="10.16" length="middle"/>
+<pin name="RX1" x="12.7" y="10.16" length="middle" rot="R180"/>
+<pin name="TX1" x="-12.7" y="7.62" length="middle"/>
+<pin name="!SS" x="12.7" y="7.62" length="middle" rot="R180"/>
+<pin name="SCK" x="-12.7" y="5.08" length="middle"/>
+<pin name="MOSI" x="12.7" y="5.08" length="middle" rot="R180"/>
+<pin name="MISO" x="-12.7" y="2.54" length="middle"/>
+<pin name="PB4" x="12.7" y="2.54" length="middle" rot="R180"/>
+<pin name="PB5" x="-12.7" y="0" length="middle"/>
+<pin name="PB6" x="12.7" y="0" length="middle" rot="R180"/>
+<pin name="PB7" x="-12.7" y="-2.54" length="middle"/>
+<pin name="RX0" x="12.7" y="-2.54" length="middle" rot="R180"/>
+<pin name="TX0" x="-12.7" y="-5.08" length="middle"/>
+<pin name="PE2" x="12.7" y="-5.08" length="middle" rot="R180"/>
+<pin name="PE3" x="-12.7" y="-7.62" length="middle"/>
+<pin name="AREF" x="12.7" y="-7.62" length="middle" direction="in" rot="R180"/>
+<pin name="AF0" x="-12.7" y="-10.16" length="middle"/>
+<pin name="AF1" x="12.7" y="-10.16" length="middle" rot="R180"/>
+<pin name="AF2" x="-12.7" y="-12.7" length="middle"/>
+<pin name="AF3" x="12.7" y="-12.7" length="middle" rot="R180"/>
+<pin name="AF4" x="-12.7" y="-15.24" length="middle"/>
+<pin name="AF7" x="12.7" y="-15.24" length="middle" rot="R180"/>
+<pin name="AF6" x="-12.7" y="-17.78" length="middle"/>
+<pin name="BAT" x="12.7" y="-17.78" length="middle" rot="R180"/>
+<pin name="GND" x="-12.7" y="-20.32" length="middle" direction="pwr"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="USB-AB" prefix="J" uservalue="yes">

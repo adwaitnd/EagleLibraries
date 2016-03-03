@@ -1027,6 +1027,8 @@
 </devices>
 </deviceset>
 <deviceset name="FIREFLY">
+<description>&lt;b&gt; Addon Board for Firefly Sensor Nodes &lt;/b&gt;&lt;p&gt;
+This version is complieant with Firefly Micro with Atmel Atmega128RFA1</description>
 <gates>
 <gate name="H31" symbol="DF9-31" x="-12.7" y="-2.54" addlevel="must"/>
 <gate name="H9" symbol="DF9-9" x="17.78" y="12.7" addlevel="must"/>
